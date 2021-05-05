@@ -27,4 +27,19 @@
     opacity: 0;
 }
 /* quinto quadrato */
+.ex-5-square {
+    transition: 2s;
+}
+.ex-5-square:hover {
+    transform: scale(3);
+}
+.ex-5-square:active {
+    transform: scale(1);
+}
+/* prima immagine */
+.ex-6-img:hover {
+    filter: grayscale(2);
+}
+/* seconda immagine */
+
 
