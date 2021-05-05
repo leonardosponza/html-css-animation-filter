@@ -20,4 +20,11 @@
     border-radius: 100%;
 }
 /* quarto quadrato */
+.ex-4-square {
+    transition: 3s;
+}
+.ex-4-square:hover {
+    opacity: 0;
+}
+/* quinto quadrato */
 
